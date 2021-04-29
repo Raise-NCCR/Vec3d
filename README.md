@@ -1,5 +1,7 @@
 # Vec3d
 
+my first library
+
 class vec3d {  
 <dl>
   <dt>private:</dt>
